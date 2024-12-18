@@ -23,7 +23,7 @@ instagram https://www.instagram.com/ibrahim_dev_/profilecard/?igsh=OW90aHI2eWxja
 <br/>
 linkdin https://www.linkedin.com/in/muhammad-ibrahim-profile/
 <br/>
-Youtube https://www.youtube.com/ibrahim-developer
+Youtube https://www.youtube.com/@ibrahimdeveloper
 <br/>
 tiktok https://www.tiktok.com/@ibrahimdeveloperofficial
  
