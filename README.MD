@@ -14,4 +14,11 @@
 12. Being int 
 13. symbol
 15. object
+github https://www.github.com/MuhammadIbrahim-dev
+
+facebook https://www.facebook.com/Muhammadibrahimdev?mibextid=ZbWKwL
+instagram https://www.instagram.com/ibrahim_dev_/profilecard/?igsh=OW90aHI2eWxja2o4
+linkdin https://www.linkedin.com/in/muhammad-ibrahim-profile/
+Youtube https://www.youtube.com/ibrahim-developer
+tiktok https://www.tiktok.com/@ibrahimdeveloperofficial
  
