@@ -1,6 +1,5 @@
 
 ## jAVA SCRIPT SERIES
-<<<<<<< HEAD
 
 ## Arithmetic Operators
 **Addition (+)**: Adds two numbers.
@@ -152,14 +151,13 @@ example: ``-1 / 0``
 <br/>
 github https://www.github.com/MuhammadIbrahim-dev
 <br/>
-facebook https://www.facebook.com/Muhammadibrahimdev?mibextid=ZbWKwL
+facebook https://www.facebook.com/Muhammadibrahimdev
 <br/>
-instagram https://www.instagram.com/ibrahim_dev_/profilecard/?igsh=OW90aHI2eWxja2o4
+instagram https://www.instagram.com/ibrahim_dev_
 <br/>
-linkdin https://www.linkedin.com/in/muhammad-ibrahim-profile/
+linkdin https://www.linkedin.com/in/muhammad-ibrahim-dev/
 <br/>
 Youtube https://www.youtube.com/@ibrahimdeveloper
 <br/>
 tiktok https://www.tiktok.com/@ibrahimdeveloperofficial
  
->>>>>>> d9ba9cb5cfcd2f78cb0b7d888fcb858816319da8
