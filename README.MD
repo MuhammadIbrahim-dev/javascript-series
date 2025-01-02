@@ -1,3 +1,4 @@
+
 ## jAVA SCRIPT SERIES
  # Data types
 1. integer
