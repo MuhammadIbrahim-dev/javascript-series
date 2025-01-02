@@ -4,47 +4,84 @@
 
 ## Arithmetic Operators
 **Addition (+)**: Adds two numbers.
+<br/>
 **Subtraction (-)**: Subtracts one number from another.
+<br/>
 **Multiplication (*)**: Multiplies two numbers.
+<br/>
 **Division (/)**: Divides one number by another.
+<br/>
 **Modulus (%)**: Returns the remainder of a division.
+<br/>
 **Exponentiation (**)**: Raises a number to the power of another.
+<br/>
 **Increment (++)**: Increases a number by one.
+<br/>
 **Decrement (--)**: Decreases a number by one.
+<br/>
 **Unary Plus (+)**: Converts a value to a number.
+<br/>
 **Unary Negation (-)**: Negates a value.
+<br/>
 ## Assignment Operators
 **Assignment (=)**: Assigns a value to a variable.
+<br/>
 **Addition Assignment (+=)**: Adds and assigns.
+<br/>
 **Subtraction Assignment (-=)**: Subtracts and assigns.
+<br/>
 **Multiplication Assignment (*=)**: Multiplies and assigns.
+<br/>
 **Division Assignment (/=)**: Divides and assigns.
+<br/>
 **Modulus Assignment (%=)**: Performs modulus and assigns.
+<br/>
 **Exponentiation Assignment (**=)**: Performs exponentiation and assigns.
+<br/>
 **Logical AND Assignment (&&=)**: Assigns if the left-hand side is truthy.
+<br/>
 **Logical OR Assignment (||=)**: Assigns if the left-hand side is falsy.
+<br/>
 **Nullish Coalescing Assignment (??=)**: Assigns if the left-hand side is null or undefined.
+<br/>
 ## Comparison Operators
 **Equal (==)**: Checks if two values are equal (loose equality).
+<br/>
 **Not Equal (!=)**: Checks if two values are not equal.
+<br/>
 **Strict Equal (===)**: Checks if two values are equal (strict equality).
+<br/>
 **Strict Not Equal (!==)**: Checks if two values are not equal (strict inequality).
+<br/>
 **Greater Than (>)**: Checks if the left value is greater than the right.
+<br/>
 **Less Than (<)**: Checks if the left value is less than the right.
+<br/>
 **Greater Than or Equal (>=)**: Checks if the left value is greater than or equal to the right.
+<br/>
 **Less Than or Equal (<=)**: Checks if the left value is less than or equal to the right.
+<br/>
 ## Logical Operators
 **Logical AND (&&)**: Returns true if both operands are truthy.
+<br/>
 **Logical OR (||)**: Returns true if at least one operand is truthy.
+<br/>
 **Logical NOT (!)**: Negates the truthiness of a value.
 ## Bitwise Operators
 **Bitwise AND (&)**: Performs a bitwise AND operation.
+<br/>
 **Bitwise OR (|)**: Performs a bitwise OR operation.
+<br/>
 **Bitwise XOR (^)**: Performs a bitwise XOR operation.
+<br/>
 **Bitwise NOT (~)**: Inverts the bits of a number.
+<br/>
 **Left Shift (<<)**: Shifts bits to the left.
+<br/>
 **Right Shift (>>)**: Shifts bits to the right (sign-propagating).
+<br/>
 **Unsigned Right Shift (>>>)**: Shifts bits to the right (zero-fill).
+<br/>
 ## Conditional Ternary Operator
 
 
